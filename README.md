@@ -67,5 +67,3 @@ Screenshots of the Firebase configuration and usage:
 ![screenshot35](https://github.com/1abcdesign/vue3-feedback-widget/blob/main/docs/firebase36.png)
 ![screenshot36](https://github.com/1abcdesign/vue3-feedback-widget/blob/main/docs/firebase37.png)
 ![screenshot38](https://github.com/1abcdesign/vue3-feedback-widget/blob/main/docs/firebase38.png)
-
-Fill free to contact me in any way: https://bit.ly/Ful1-5tack
