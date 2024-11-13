@@ -1,0 +1,28 @@
+<!doctype html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>vue-firebase | feedback-widget</title>
+    <script>
+      var iconLink = document.createElement('link');
+      iconLink.rel = 'icon';
+      iconLink.type = 'image/x-icon';
+      iconLink.href = 'https://www.monobank.ua/img/favicon/favicon-mono.ico';
+      iconLink.onerror = function() {
+        var defaultIconLink = document.createElement('link');
+        defaultIconLink.rel = 'icon';
+        defaultIconLink.type = 'image/svg+xml';
+        defaultIconLink.href = '/vite.svg';
+        document.head.appendChild(defaultIconLink);
+      }
+      document.head.appendChild(iconLink);
+    </script>
+    <script type="module" crossorigin src="/vue3-feedback-widget/assets/index-502581fb.js"></script>
+    <link rel="stylesheet" href="/vue3-feedback-widget/assets/index-e4aa6085.css">
+  </head>
+  <body>
+    <div id="app"></div>
+    
+  </body>
+</html>
