@@ -1,7 +1,7 @@
 <template>
   <div class="app">
     <h1>
-      <a href="https://github.com/1abcdesign/vue3-feedback-widget" target="_blank" rel="noopener noreferrer">
+      <a href="https://github.com/vadim4web/vue3-feedback-widget" target="_blank" rel="noopener noreferrer">
         <span class="product">{{ appTitle }}&nbsp;
           <span class="product-shadow">{{ appTitle }}&nbsp;</span>
         </span>
